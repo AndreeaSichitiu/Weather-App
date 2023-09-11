@@ -2,20 +2,20 @@
   "name": "Weather-App",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/andrewsor13/Weather-App",
+  "homepage": "https://github.com/AndreeaSichitiu/Weather-App",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /Weather-App/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andrewsor13/Weather-App.git"
+    "url": "git+https://github.com/AndreeaSichitiu/Weather-App.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/andrewsor13/Weather-App/issues"
+    "url": "https://github.com/AndreeaSichitiu/Weather-App/issues"
   },
   "dependencies": {
     "axios": "^1.4.0",
